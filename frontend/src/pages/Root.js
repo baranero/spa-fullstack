@@ -5,7 +5,7 @@ import MainNavigation from "../components/MainNavigation"
 function RootLayout() {
   return <Fragment>
     <MainNavigation/>
-    <Outlet/>
+    <main><Outlet/></main>
   </Fragment>
 }
 
