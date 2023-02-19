@@ -1,1 +1,12 @@
-{"events":[{"title":"BFF","image":"https://i.discogs.com/a8sShxt8TzNTl8g6YEOTdxXGSWZyb2p4VYR_-WWJCRs/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI3NjU3/MjktMTYwOTE0NjMw/NC0zNDE4LmpwZWc.jpeg","date":"2023-02-24","description":"!!","id":"6bfff670-14fb-49f4-9bea-413a1652e333"},{"title":"BFF!!","image":"https://biletyna.pl/file/get/id/65046","date":"2023-02-14","description":"Jak coś robią to na 30%!","id":"d313fe8b-0518-4acc-9454-5adf33421aaa"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
+{
+  "events": [
+    {
+      "title": "A new event",
+      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
+      "date": "2022-10-01",
+      "description": "Some awesome event!",
+      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
+    }
+  ],
+  "users": []
+}

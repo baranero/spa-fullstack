@@ -1,20 +1,19 @@
-import { Fragment } from "react"
-import { Outlet, useNavigation } from "react-router"
-import MainNavigation from "../components/MainNavigation"
+import { Outlet, useNavigation } from 'react-router-dom';
+
+import MainNavigation from '../components/MainNavigation';
 
 function RootLayout() {
+  // const navigation = useNavigation();
 
-  // const navigation = useNavigation()
-
-
-
-  return <Fragment>
-    <MainNavigation/>
-    <main>
-      {/* { navigation.state === 'loading' && <p>Loading...</p> } */}
-      <Outlet/>
-    </main>
-  </Fragment>
+  return (
+    <>
+      <MainNavigation />
+      <main>
+        {/* {navigation.state === 'loading' && <p>Loading...</p>} */}
+        <Outlet />
+      </main>
+    </>
+  );
 }
 
-export default RootLayout
+export default RootLayout;
